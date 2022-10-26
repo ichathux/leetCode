@@ -2,6 +2,7 @@ package StudentAttendanceRecordI;
 
 public class Solution {
     public boolean checkRecord(String s) {
+
         StringBuilder sb = new StringBuilder (s);
         if(sb.indexOf("LLL") != -1){
             return false;
