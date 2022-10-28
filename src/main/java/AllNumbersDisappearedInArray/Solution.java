@@ -2,7 +2,7 @@ package AllNumbersDisappearedInArray;
 
 import java.util.*;
 
-// TODO: 2022-10-28  
+// TODO: 2022-10-28
 public class Solution {
 
     public List<Integer> findDisappearedNumbers(int[] nums) {

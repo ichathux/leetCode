@@ -2,7 +2,7 @@ package AssignCookies;
 
 import java.util.ArrayList;
 
-// TODO: 2022-10-28  
+// TODO: 2022-10-28
 public class Solution {
     public int findContentChildren(int[] g, int[] s) {
 
