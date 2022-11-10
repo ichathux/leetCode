@@ -13,4 +13,8 @@ public class SolutionTest {
     public void test2(){
         assertEquals (13, new Solution ().fib (7));
     }
+    @Test
+    public void test3(){
+        assertEquals (1845853122, new Solution ().fib (75));
+    }
 }

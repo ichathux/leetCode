@@ -22,8 +22,6 @@ public class Solution {
             result = fib (n-1)+fib (n-2);
             memo.put (n-1,result);
         }
-
-        System.out.println (memo);
         return result;
     }
 }
