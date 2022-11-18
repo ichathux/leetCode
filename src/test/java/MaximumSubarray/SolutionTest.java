@@ -22,6 +22,9 @@ public class SolutionTest {
     @Test
     public void test4(){
         assertEquals (-1, new Solution ().maxSubArray (new int[]{-2,-1}));
+    }@Test
+    public void test5(){
+        assertEquals (23, new Solution ().maxSubArray (new int[]{5,4,-1,7,8}));
     }
 
 }
