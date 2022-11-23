@@ -1,5 +1,9 @@
 package LinkedList;
 
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Stack;
+
 public class Util {
     public static void print(ListNode head){
         System.out.print ("[");
